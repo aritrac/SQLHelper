@@ -1,0 +1,1 @@
+#Write an SQL query to fetch “FIRST_NAME” from Worker table in upper case.
